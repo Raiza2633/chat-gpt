@@ -1,2 +1,3 @@
 # chat-gpt-clone
-![ChatGPT-APP-Google-Chrome-2023-0](https://user-images.githubusercontent.com/75376059/211252287-e3b7cb0c-15f7-402c-93b5-27c1e0554058.gif)
+
+![chatgpt-gift](https://user-images.githubusercontent.com/75376059/211253528-72211632-a62c-4cf5-8757-5b0dbb5cf839.gif)
